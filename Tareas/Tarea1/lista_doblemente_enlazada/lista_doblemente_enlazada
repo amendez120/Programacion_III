@@ -1,0 +1,8 @@
+digraph {
+	None [label=None shape=plaintext]
+	22 [label="a b
+22"]
+	None -> 22
+	None2 [label=None shape=plaintext]
+	22 -> None2
+}

@@ -1,0 +1,15 @@
+Como utilizar el programa
+ve al path /la ruta donde clones/Programacion_III/Tareas/Tarea1/lista_doblemente_enlazada
+en terminal ejecuta.
+python cli.py
+
+
+luego despliega el menú interactivo para realizar operaciones en la lista doblemente enlazada. Las opciones disponibles son:
+
+1. Insertar al principio: Añade un nuevo nodo al principio de la lista.
+2. Insertar al final: Añade un nuevo nodo al final de la lista.
+3. Eliminar por valor: Elimina el primer nodo con el carnet especificado.
+4. Mostrar lista: Muestra la lista actual y genera una visualización con Graphviz.
+5. Salir: Finaliza el programa.
+
+Cada vez que insertes o elimines nodos y selecciones la opción de mostrar la lista, se generará una imagen de la lista actual utilizando Graphviz. 
