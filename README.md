@@ -1,2 +1,2 @@
-# Programacion_III
-Curso de programacion 3, tareas, proyectos, ejercicios.
+# ProgramacionIII
+Angel Méndez 9490-22-5851  100% de participación
