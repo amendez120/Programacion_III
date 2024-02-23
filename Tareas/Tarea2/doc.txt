@@ -1,0 +1,46 @@
+Funciones del Programa
+
+1. Convertir a Binario
+Esta opción convierte un número entero proporcionado por el usuario a su equivalente en sistema binario.
+
+Uso:
+
+Seleccionar la opción 1.
+Introducir el número entero a convertir.
+
+2. Contar Dígitos
+Cuenta y devuelve el número de dígitos de un número entero proporcionado por el usuario.
+
+Uso:
+
+Seleccionar la opción 2.
+Introducir el número entero del cual contar los dígitos.
+
+3. Raíz Cuadrada Entera
+Calcula y muestra la raíz cuadrada entera del número proporcionado por el usuario, es decir, la parte entera de la raíz cuadrada del número.
+
+Uso:
+
+Seleccionar la opción 3.
+Introducir el número entero para calcular su raíz cuadrada entera.
+
+4. Convertir a Decimal desde Romano
+Convierte un número romano introducido por el usuario a su equivalente en sistema decimal.
+
+Uso:
+
+Seleccionar la opción 4.
+Introducir el número romano a convertir.
+
+5. Suma de Números Enteros
+Suma todos los números enteros desde cero hasta el número entero positivo proporcionado por el usuario.
+
+Uso:
+
+Seleccionar la opción 5.
+Introducir el número entero positivo hasta el cual realizar la suma.
+
+6. Salir
+Termina la ejecución del programa.
+
+
