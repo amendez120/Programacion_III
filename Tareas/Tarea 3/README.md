@@ -28,14 +28,20 @@ Eliminar un elemento: Selecciona la opción 3 e introduce el valor que deseas el
 
 Cargar desde archivo: Selecciona la opción 4 e introduce la ruta a un archivo .txt con valores para insertar en el árbol.
 
-los datos deberan insetarse de la siguente manera: 
+los datos deberan insetarse de la siguente manera de arriba hacia abajo no lineal, si no dara un error.
 
 5
+
 3
+
 8
+
 1
+
 4
+
 7
+
 9
 
 
