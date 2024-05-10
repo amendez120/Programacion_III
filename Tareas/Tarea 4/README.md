@@ -11,6 +11,10 @@ Este proyecto implementa un programa en Python que gestiona una matriz dispersa 
 
 ## Miembros del Equipo
 - Angel Emilio Méndez Muralles, Carnet: 9490-22-5851, Participación: 100%
+- Abner salvado Cancinos Cabrera,Carnet: 9490 22 2101, Participación: 100%
+- Cristhian Sebastián Rodas Arriola, Carnet: 9490-22-523, Participación: 100%
+- Joshua Ivan Andre Méndez Vasquez, Carnet: 9490-22-4032, Participación: 100%
+- Alder Isaac Solis De Leon Carnet: 9490-22-227, Participación: 100% 
 
 
 ## Instrucciones de Ejecución
