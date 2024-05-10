@@ -1,0 +1,70 @@
+// Matriz Dispersa de Eventos de Muerte
+digraph {
+	0 [label="Edad: 35, EF: 20"]
+	1 [label="Edad: 55, EF: 38"]
+	0 -> 1
+	2 [label="Edad: 26, EF: 20"]
+	1 -> 2
+	3 [label="Edad: 28, EF: 20"]
+	2 -> 3
+	4 [label="Edad: 67, EF: 20"]
+	3 -> 4
+	5 [label="Edad: 91, EF: 40"]
+	4 -> 5
+	6 [label="Edad: 76, EF: 15"]
+	5 -> 6
+	7 [label="Edad: 61, EF: 60"]
+	6 -> 7
+	8 [label="Edad: 66, EF: 65"]
+	7 -> 8
+	9 [label="Edad: 79, EF: 35"]
+	8 -> 9
+	10 [label="Edad: 77, EF: 38"]
+	9 -> 10
+	11 [label="Edad: 62, EF: 25"]
+	10 -> 11
+	12 [label="Edad: 44, EF: 30"]
+	11 -> 12
+	13 [label="Edad: 49, EF: 38"]
+	12 -> 13
+	14 [label="Edad: 81, EF: 50"]
+	13 -> 14
+	15 [label="Edad: 87, EF: 38"]
+	14 -> 15
+	16 [label="Edad: 45, EF: 14"]
+	15 -> 16
+	17 [label="Edad: 78, EF: 25"]
+	16 -> 17
+	18 [label="Edad: 48, EF: 55"]
+	17 -> 18
+	19 [label="Edad: 96, EF: 30"]
+	18 -> 19
+	20 [label="Edad: 68, EF: 35"]
+	19 -> 20
+	21 [label="Edad: 75, EF: 30"]
+	20 -> 21
+	22 [label="Edad: 80, EF: 38"]
+	21 -> 22
+	23 [label="Edad: 95, EF: 40"]
+	22 -> 23
+	24 [label="Edad: 70, EF: 45"]
+	23 -> 24
+	25 [label="Edad: 58, EF: 38"]
+	24 -> 25
+	26 [label="Edad: 24, EF: 30"]
+	25 -> 26
+	27 [label="Edad: 94, EF: 38"]
+	26 -> 27
+	28 [label="Edad: 85, EF: 45"]
+	27 -> 28
+	29 [label="Edad: 50, EF: 35"]
+	28 -> 29
+	30 [label="Edad: 65, EF: 50"]
+	29 -> 30
+	31 [label="Edad: 69, EF: 35"]
+	30 -> 31
+	32 [label="Edad: 90, EF: 50"]
+	31 -> 32
+	33 [label="Edad: 82, EF: 50"]
+	32 -> 33
+}
